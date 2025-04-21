@@ -1,0 +1,17 @@
+{
+  "name": "safari-permit-app",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "jspdf": "^2.5.1",
+    "qrcode": "^1.5.1",
+    "qr-scanner": "^1.4.2"
+  }
+}
